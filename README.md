@@ -1,2 +1,1 @@
-# exect
-Easy Xenology Conciliation Tool
+# EXECT - Easy Xenology Conciliation Tool
